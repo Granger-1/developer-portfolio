@@ -186,3 +186,12 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+/* footer style */
+.footer-container{
+    display: flex;
+    max-width: 1140px;
+    margin: 0 auto;
+    background: #fff8f3;
+    padding: 130px 200px;
+    margin-top: 130px;
+}
